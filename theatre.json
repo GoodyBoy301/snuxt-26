@@ -1,0 +1,3738 @@
+{
+  "historic": {
+    "currentCommitHash": "f51ff6f5-8a39-4ba9-a706-be0288f9e2f4",
+    "commitsByHash": {
+      "66347e3f-6d1b-46c8-90db-c192d8b7e18e": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0"
+          }
+        ],
+        "timestamp": 1774076413270,
+        "hash": "66347e3f-6d1b-46c8-90db-c192d8b7e18e"
+      },
+      "7e5a0b20-ca50-4c95-a8df-221111e9cab9": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076416757,
+        "hash": "7e5a0b20-ca50-4c95-a8df-221111e9cab9"
+      },
+      "5e7a0ce8-f93d-4958-988f-2d1053b74948": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076418052,
+        "hash": "5e7a0ce8-f93d-4958-988f-2d1053b74948"
+      },
+      "82c5e972-6be8-4e48-8db5-6118b32cdada": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0"
+          }
+        ],
+        "timestamp": 1774076420169,
+        "hash": "82c5e972-6be8-4e48-8db5-6118b32cdada"
+      },
+      "88e71892-774e-4ab1-b674-32ffc4efa2ac": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076423397,
+        "hash": "88e71892-774e-4ab1-b674-32ffc4efa2ac"
+      },
+      "4b38010f-ad19-4aea-abb8-b14f3ee19bca": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076424652,
+        "hash": "4b38010f-ad19-4aea-abb8-b14f3ee19bca"
+      },
+      "8a130731-2ffa-4cd3-bcbb-b73e606c7336": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0"
+          }
+        ],
+        "timestamp": 1774076427219,
+        "hash": "8a130731-2ffa-4cd3-bcbb-b73e606c7336"
+      },
+      "1e52fb6a-6519-4549-9a38-43da46a03576": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076429565,
+        "hash": "1e52fb6a-6519-4549-9a38-43da46a03576"
+      },
+      "fb8aae0b-e7b6-42ee-a65c-6118bdccb0c8": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "sXFTCqP-Hv",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "sXFTCqP-Hv",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076450327,
+        "hash": "fb8aae0b-e7b6-42ee-a65c-6118bdccb0c8"
+      },
+      "d2593ad1-486e-4033-8f45-68b5f7594d40": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076453319,
+        "hash": "d2593ad1-486e-4033-8f45-68b5f7594d40"
+      },
+      "e84b0d27-c4e0-4c55-837c-73239ed72d13": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "cVMTmQ8_VN",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "cVMTmQ8_VN",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076455682,
+        "hash": "e84b0d27-c4e0-4c55-837c-73239ed72d13"
+      },
+      "762f6d40-3460-47dd-a9eb-2eebf3869f6d": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076457001,
+        "hash": "762f6d40-3460-47dd-a9eb-2eebf3869f6d"
+      },
+      "8735cfa7-4c9c-48f5-bfce-2c0d0a5ec39d": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "JxTTl-8ohA",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "JxTTl-8ohA",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076459392,
+        "hash": "8735cfa7-4c9c-48f5-bfce-2c0d0a5ec39d"
+      },
+      "4f8ba495-cb55-4ca9-ad41-20cae8731900": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076491010,
+        "hash": "4f8ba495-cb55-4ca9-ad41-20cae8731900"
+      },
+      "1845fc63-c063-407f-9e70-5170042e71d0": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076492069,
+        "hash": "1845fc63-c063-407f-9e70-5170042e71d0"
+      },
+      "57caee05-79fc-4554-b646-21b262f1545a": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076494647,
+        "hash": "57caee05-79fc-4554-b646-21b262f1545a"
+      },
+      "965ff5e0-5f63-4d91-b888-9e111962360a": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076496037,
+        "hash": "965ff5e0-5f63-4d91-b888-9e111962360a"
+      },
+      "384f6760-3be7-4ed5-af06-762eb30e83b6": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 200
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076498174,
+        "hash": "384f6760-3be7-4ed5-af06-762eb30e83b6"
+      },
+      "4857d96c-eda8-4356-937c-77d5cd1eccd5": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1",
+            "value": {
+              "id": "pJ4JBqEv-y",
+              "position": 1.1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1",
+            "value": {
+              "id": "pJ4JBqEv-y",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076516818,
+        "hash": "4857d96c-eda8-4356-937c-77d5cd1eccd5"
+      },
+      "9c6961c1-fb99-441e-afe3-8e5f522f303a": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1",
+            "value": {
+              "id": "pJ4JBqEv-y",
+              "position": 1.167,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1",
+            "value": {
+              "id": "pJ4JBqEv-y",
+              "position": 1.1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076519136,
+        "hash": "9c6961c1-fb99-441e-afe3-8e5f522f303a"
+      },
+      "da09d768-c148-4afa-ba31-c2df46053331": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1",
+            "value": {
+              "id": "mjwh63QH2W",
+              "position": 1.333,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1",
+            "value": {
+              "id": "mjwh63QH2W",
+              "position": 0.967,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076535353,
+        "hash": "da09d768-c148-4afa-ba31-c2df46053331"
+      },
+      "53c721ae-1189-4d61-934f-d08598d3044d": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1",
+            "value": {
+              "id": "pJ4JBqEv-y",
+              "position": 1.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1",
+            "value": {
+              "id": "pJ4JBqEv-y",
+              "position": 1.167,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076541486,
+        "hash": "53c721ae-1189-4d61-934f-d08598d3044d"
+      },
+      "ca7ee5f3-793b-4ab6-bffb-63b51b1f59e4": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1",
+            "value": {
+              "id": "mjwh63QH2W",
+              "position": 1.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1",
+            "value": {
+              "id": "mjwh63QH2W",
+              "position": 1.333,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076544736,
+        "hash": "ca7ee5f3-793b-4ab6-bffb-63b51b1f59e4"
+      },
+      "17a335e9-79b5-4f32-98d4-b483ad0d2c42": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076560420,
+        "hash": "17a335e9-79b5-4f32-98d4-b483ad0d2c42"
+      },
+      "5e08a061-d2b4-4994-8afd-ed2fa0b4221f": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/0",
+            "value": {
+              "id": "s7usO7qmFm",
+              "position": 0.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/0",
+            "value": {
+              "id": "s7usO7qmFm",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076573869,
+        "hash": "5e08a061-d2b4-4994-8afd-ed2fa0b4221f"
+      },
+      "1d2e8d10-aea1-4c86-892f-2f97a07b0561": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076739921,
+        "hash": "1d2e8d10-aea1-4c86-892f-2f97a07b0561"
+      },
+      "e7751783-8208-4a81-9012-b13e20dd0a00": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/0",
+            "value": {
+              "id": "KgDhVP4v7o",
+              "position": 0.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/0",
+            "value": {
+              "id": "KgDhVP4v7o",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1"
+          }
+        ],
+        "timestamp": 1774076743803,
+        "hash": "e7751783-8208-4a81-9012-b13e20dd0a00"
+      },
+      "2ec8f23b-c547-44dc-ab59-f6d0e4ca34ca": {
+        "forwardDiff": [
+          { "op": "add", "path": "/panels/sequenceEditor", "value": { "graphEditor": { "height": 0.5, "isOpen": true } } },
+          {
+            "op": "add",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1",
+            "value": { "[\"x\"]": "1" }
+          }
+        ],
+        "backwardDiff": [
+          { "op": "remove", "path": "/panels/sequenceEditor" },
+          {
+            "op": "remove",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1"
+          }
+        ],
+        "timestamp": 1774076753805,
+        "hash": "2ec8f23b-c547-44dc-ab59-f6d0e4ca34ca"
+      },
+      "9038cf28-4a59-4253-afe6-f043cb8f4279": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1/[\"y\"]",
+            "value": "2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1/[\"y\"]"
+          }
+        ],
+        "timestamp": 1774076756487,
+        "hash": "9038cf28-4a59-4253-afe6-f043cb8f4279"
+      },
+      "bff8b9c8-b9aa-433f-af44-d9f53f331e9d": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1/[\"y\"]"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1/[\"y\"]",
+            "value": "2"
+          }
+        ],
+        "timestamp": 1774076758570,
+        "hash": "bff8b9c8-b9aa-433f-af44-d9f53f331e9d"
+      },
+      "d2a5cc81-04fa-4ff7-98a7-39a9f3a8a060": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1",
+            "value": { "[\"x\"]": "1" }
+          }
+        ],
+        "timestamp": 1774076759354,
+        "hash": "d2a5cc81-04fa-4ff7-98a7-39a9f3a8a060"
+      },
+      "7f31fd63-f498-4821-be83-816a1ede24ab": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076897871,
+        "hash": "7f31fd63-f498-4821-be83-816a1ede24ab"
+      },
+      "63b710e5-6a1a-47ef-9cce-e743fa7fe5dd": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/2",
+            "value": {
+              "id": "6ouab0TIgr",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076908373,
+        "hash": "63b710e5-6a1a-47ef-9cce-e743fa7fe5dd"
+      },
+      "eb01ecf8-c3e0-4b24-bb00-b4a4e72f84aa": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2",
+            "value": {
+              "id": "KVD1bvyKPp",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076910388,
+        "hash": "eb01ecf8-c3e0-4b24-bb00-b4a4e72f84aa"
+      },
+      "5e88789c-9e0d-4c38-b38e-8f0553ff8d58": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076912688,
+        "hash": "5e88789c-9e0d-4c38-b38e-8f0553ff8d58"
+      },
+      "49fa5fd1-2759-49a3-90ff-607a26da9629": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2",
+            "value": {
+              "id": "eo3k45Cjum",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076914688,
+        "hash": "49fa5fd1-2759-49a3-90ff-607a26da9629"
+      },
+      "401d19b8-fc77-4c28-af32-3248d2e30392": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2",
+            "value": {
+              "id": "6yvDZ6YnB7",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076915756,
+        "hash": "401d19b8-fc77-4c28-af32-3248d2e30392"
+      },
+      "b85ad9f5-26d0-4c88-baac-e891eb013778": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076917288,
+        "hash": "b85ad9f5-26d0-4c88-baac-e891eb013778"
+      },
+      "7e43060d-a383-4b11-83ec-ab2551f2677b": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2",
+            "value": {
+              "id": "Yl4wXiwlcz",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076919372,
+        "hash": "7e43060d-a383-4b11-83ec-ab2551f2677b"
+      },
+      "d5b255ca-27c4-44fb-88f6-0f77270fdb5c": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2",
+            "value": {
+              "id": "FrBd585Tv_",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "timestamp": 1774076921122,
+        "hash": "d5b255ca-27c4-44fb-88f6-0f77270fdb5c"
+      },
+      "fab229fd-b14b-47b6-b7df-a5d0063b6567": {
+        "forwardDiff": [
+          {
+            "op": "replace",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/length",
+            "value": 2.97
+          }
+        ],
+        "backwardDiff": [
+          { "op": "replace", "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/length", "value": 2 }
+        ],
+        "timestamp": 1774076952786,
+        "hash": "fab229fd-b14b-47b6-b7df-a5d0063b6567"
+      },
+      "54a1d5a3-7de2-4e0b-8a18-1a8a870fdf4f": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3",
+            "value": {
+              "id": "hz6f3RhtX8",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3"
+          }
+        ],
+        "timestamp": 1774076960573,
+        "hash": "54a1d5a3-7de2-4e0b-8a18-1a8a870fdf4f"
+      },
+      "72201c02-efb5-4a7c-b6d5-edf2cc700cbd": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/3",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/3"
+          }
+        ],
+        "timestamp": 1774076962088,
+        "hash": "72201c02-efb5-4a7c-b6d5-edf2cc700cbd"
+      },
+      "8e75c432-5b53-405e-b782-263f48a20c81": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076963255,
+        "hash": "8e75c432-5b53-405e-b782-263f48a20c81"
+      },
+      "6e99345e-31da-40df-904d-365272d215d9": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3",
+            "value": {
+              "id": "pJ0LvVibUR",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3"
+          }
+        ],
+        "timestamp": 1774076965705,
+        "hash": "6e99345e-31da-40df-904d-365272d215d9"
+      },
+      "d2e6d151-19d8-4ef4-a8ed-2b3daba59bbf": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/3",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/3"
+          }
+        ],
+        "timestamp": 1774076967056,
+        "hash": "d2e6d151-19d8-4ef4-a8ed-2b3daba59bbf"
+      },
+      "20ba83ef-9dfe-4e05-a593-780c89d1c44a": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774076970755,
+        "hash": "20ba83ef-9dfe-4e05-a593-780c89d1c44a"
+      },
+      "1d0843ad-e69c-4da3-8c85-b89f904fefc1": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/3",
+            "value": {
+              "id": "0lMHrXmmen",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/3"
+          }
+        ],
+        "timestamp": 1774076972988,
+        "hash": "1d0843ad-e69c-4da3-8c85-b89f904fefc1"
+      },
+      "87d1e38c-a71e-460f-90fa-c5c2456b1f9b": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/3",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/3"
+          }
+        ],
+        "timestamp": 1774076974207,
+        "hash": "87d1e38c-a71e-460f-90fa-c5c2456b1f9b"
+      },
+      "6462cbd6-39b1-4f3c-be68-19653a8e86ef": {
+        "forwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/bottom/distance", "value": 0.13701923076923073 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/distance", "value": 0.27163461538461536 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.33129251700680273 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.12448979591836734 }
+        ],
+        "backwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/bottom/distance", "value": 0.13822115384615385 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/distance", "value": 0.2704326923076923 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.28979591836734697 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.16598639455782313 }
+        ],
+        "timestamp": 1774077009203,
+        "hash": "6462cbd6-39b1-4f3c-be68-19653a8e86ef"
+      },
+      "44e152ce-38bf-44a8-886b-fe31f173afa1": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/0",
+            "value": {
+              "id": "4n4M1LWcZI",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/0",
+            "value": {
+              "id": "4n4M1LWcZI",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077014592,
+        "hash": "44e152ce-38bf-44a8-886b-fe31f173afa1"
+      },
+      "c91bebb9-0bbe-4d1a-a7ca-3d8837916327": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/0",
+            "value": {
+              "id": "KgDhVP4v7o",
+              "position": 0.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/0",
+            "value": {
+              "id": "KgDhVP4v7o",
+              "position": 0.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077018023,
+        "hash": "c91bebb9-0bbe-4d1a-a7ca-3d8837916327"
+      },
+      "b39f330f-ebce-4fc4-a586-cc0c3721d616": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/0",
+            "value": {
+              "id": "s7usO7qmFm",
+              "position": 0.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/0",
+            "value": {
+              "id": "s7usO7qmFm",
+              "position": 0.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 1470
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077020654,
+        "hash": "b39f330f-ebce-4fc4-a586-cc0c3721d616"
+      },
+      "f3b844ad-e82f-4b1b-a0e5-d59fc0a902dc": {
+        "forwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/bottom/distance", "value": 0.16225961538461542 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/distance", "value": 0.24519230769230768 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.15442176870748303 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.3013605442176871 }
+        ],
+        "backwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/bottom/distance", "value": 0.13701923076923073 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/distance", "value": 0.27163461538461536 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.33129251700680273 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.12448979591836734 }
+        ],
+        "timestamp": 1774077035037,
+        "hash": "f3b844ad-e82f-4b1b-a0e5-d59fc0a902dc"
+      },
+      "76cff7f4-db8f-47f1-a58a-80e0274d3cb3": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/3",
+            "value": {
+              "id": "0lMHrXmmen",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/3",
+            "value": {
+              "id": "0lMHrXmmen",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/tBRUZiUm7_/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077040659,
+        "hash": "76cff7f4-db8f-47f1-a58a-80e0274d3cb3"
+      },
+      "b6fce303-3e2e-460b-b101-635c6c5a04b1": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3",
+            "value": {
+              "id": "pJ0LvVibUR",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3",
+            "value": {
+              "id": "pJ0LvVibUR",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077043948,
+        "hash": "b6fce303-3e2e-460b-b101-635c6c5a04b1"
+      },
+      "b4fb6d0c-7dbf-4d6e-8ddc-51c6b2f67a43": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3",
+            "value": {
+              "id": "hz6f3RhtX8",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3",
+            "value": {
+              "id": "hz6f3RhtX8",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077046918,
+        "hash": "b4fb6d0c-7dbf-4d6e-8ddc-51c6b2f67a43"
+      },
+      "7c9906a8-c49b-4560-8a97-5f3512d59cb1": {
+        "forwardDiff": [
+          {
+            "op": "replace",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/length",
+            "value": 4.02
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "replace",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/length",
+            "value": 2.97
+          }
+        ],
+        "timestamp": 1774077054903,
+        "hash": "7c9906a8-c49b-4560-8a97-5f3512d59cb1"
+      },
+      "ff1b84dc-8f40-41c8-a294-fdab3f59f002": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2",
+            "value": {
+              "id": "eo3k45Cjum",
+              "position": 2.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/2",
+            "value": {
+              "id": "eo3k45Cjum",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3"
+          }
+        ],
+        "timestamp": 1774077061373,
+        "hash": "ff1b84dc-8f40-41c8-a294-fdab3f59f002"
+      },
+      "a94c1b71-2c38-4259-8abb-7e0057214c18": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2",
+            "value": {
+              "id": "Yl4wXiwlcz",
+              "position": 2.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/2",
+            "value": {
+              "id": "Yl4wXiwlcz",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3"
+          }
+        ],
+        "timestamp": 1774077065772,
+        "hash": "a94c1b71-2c38-4259-8abb-7e0057214c18"
+      },
+      "2c6d9f22-f96d-4c26-993e-214933521f22": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3",
+            "value": {
+              "id": "pJ0LvVibUR",
+              "position": 3.067,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/3",
+            "value": {
+              "id": "pJ0LvVibUR",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/KL98oIw2kP/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077073605,
+        "hash": "2c6d9f22-f96d-4c26-993e-214933521f22"
+      },
+      "d2e4f47d-04b1-489a-a769-a1857bbe2ee2": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3",
+            "value": {
+              "id": "hz6f3RhtX8",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/3",
+            "value": {
+              "id": "hz6f3RhtX8",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -1512
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/QmtrMW6nk3/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077081940,
+        "hash": "d2e4f47d-04b1-489a-a769-a1857bbe2ee2"
+      },
+      "bddce560-d082-454e-88b5-e480cc9b2431": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/3",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/3",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077176778,
+        "hash": "bddce560-d082-454e-88b5-e480cc9b2431"
+      },
+      "831a7a6d-f00e-4aba-a226-7c8e28e03706": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/3",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/3",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077179656,
+        "hash": "831a7a6d-f00e-4aba-a226-7c8e28e03706"
+      },
+      "d3195f99-165e-40c9-bd35-31a8708c1e3b": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/3",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/4"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/3",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/4"
+          }
+        ],
+        "timestamp": 1774077182673,
+        "hash": "d3195f99-165e-40c9-bd35-31a8708c1e3b"
+      },
+      "8cb98f1a-70bf-47c2-830e-8b5fa855e53c": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2",
+            "value": {
+              "id": "FrBd585Tv_",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/3"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2",
+            "value": {
+              "id": "FrBd585Tv_",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/3"
+          }
+        ],
+        "timestamp": 1774077201590,
+        "hash": "8cb98f1a-70bf-47c2-830e-8b5fa855e53c"
+      },
+      "0d90e0d3-ff3c-4749-805b-4a5b78ef152a": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2",
+            "value": {
+              "id": "6yvDZ6YnB7",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/3"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2",
+            "value": {
+              "id": "6yvDZ6YnB7",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/3"
+          }
+        ],
+        "timestamp": 1774077204087,
+        "hash": "0d90e0d3-ff3c-4749-805b-4a5b78ef152a"
+      },
+      "a008927d-237f-4b8c-acbb-5f0cc14875ff": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2",
+            "value": {
+              "id": "KVD1bvyKPp",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/3"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2",
+            "value": {
+              "id": "KVD1bvyKPp",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/3"
+          }
+        ],
+        "timestamp": 1774077206562,
+        "hash": "a008927d-237f-4b8c-acbb-5f0cc14875ff"
+      },
+      "9cbcfbfc-47db-4de7-9590-a62a1e7ee5d1": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "JxTTl-8ohA",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "JxTTl-8ohA",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077209296,
+        "hash": "9cbcfbfc-47db-4de7-9590-a62a1e7ee5d1"
+      },
+      "c83c4920-d8fe-48e4-b8c4-e8bf3872a711": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "cVMTmQ8_VN",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "cVMTmQ8_VN",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077211238,
+        "hash": "c83c4920-d8fe-48e4-b8c4-e8bf3872a711"
+      },
+      "f5abd0a3-9fca-4404-a12c-c4254d96680a": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "sXFTCqP-Hv",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "sXFTCqP-Hv",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 0
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077213261,
+        "hash": "f5abd0a3-9fca-4404-a12c-c4254d96680a"
+      },
+      "8a41e898-be22-4a7d-ae4f-dea76bb3a10d": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "JxTTl-8ohA",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          }
+        ],
+        "timestamp": 1774077247741,
+        "hash": "8a41e898-be22-4a7d-ae4f-dea76bb3a10d"
+      },
+      "2148b675-542c-4b9c-b8ae-b9cd5525e2f7": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774077249124,
+        "hash": "2148b675-542c-4b9c-b8ae-b9cd5525e2f7"
+      },
+      "b14d15ef-dd0d-423b-909c-056992ae768b": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "cVMTmQ8_VN",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          }
+        ],
+        "timestamp": 1774077250539,
+        "hash": "b14d15ef-dd0d-423b-909c-056992ae768b"
+      },
+      "23092a85-81e1-4997-945f-8dada04c9801": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774077251973,
+        "hash": "23092a85-81e1-4997-945f-8dada04c9801"
+      },
+      "2dfa8856-42d5-43a3-9054-0263af3335e8": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "sXFTCqP-Hv",
+              "position": 1,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          }
+        ],
+        "timestamp": 1774077253457,
+        "hash": "2dfa8856-42d5-43a3-9054-0263af3335e8"
+      },
+      "485069b3-ad4a-4525-a628-68cf31f6ecd7": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "FrBd585Tv_",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -100
+            }
+          }
+        ],
+        "timestamp": 1774077257973,
+        "hash": "485069b3-ad4a-4525-a628-68cf31f6ecd7"
+      },
+      "4d85dce5-f759-44d2-ae85-97094f275216": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year3"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774077259389,
+        "hash": "4d85dce5-f759-44d2-ae85-97094f275216"
+      },
+      "38bd827e-f2dc-4a36-8c9f-549b8928265b": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "6yvDZ6YnB7",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -100
+            }
+          }
+        ],
+        "timestamp": 1774077261207,
+        "hash": "38bd827e-f2dc-4a36-8c9f-549b8928265b"
+      },
+      "48537b0b-5f08-46f4-b89c-88a9f9730448": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year1"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/panels/outlinePanel/selection/0",
+            "value": {
+              "type": "SheetObject",
+              "projectId": "Spotify Wrapped",
+              "sheetId": "Preloader Curtain",
+              "objectKey": "Year2"
+            }
+          },
+          { "op": "remove", "path": "/panels/outlinePanel/selection/1" }
+        ],
+        "timestamp": 1774077262840,
+        "hash": "48537b0b-5f08-46f4-b89c-88a9f9730448"
+      },
+      "ea79f126-35b7-4f0e-8085-46854040bcc8": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "KVD1bvyKPp",
+              "position": 2,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -100
+            }
+          }
+        ],
+        "timestamp": 1774077264790,
+        "hash": "ea79f126-35b7-4f0e-8085-46854040bcc8"
+      },
+      "99d08476-1721-496d-9db1-4803b24363cc": {
+        "forwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.173469387755102 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.282312925170068 }
+        ],
+        "backwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.15442176870748303 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.3013605442176871 }
+        ],
+        "timestamp": 1774077277855,
+        "hash": "99d08476-1721-496d-9db1-4803b24363cc"
+      },
+      "191f3288-6456-48cb-8753-a64f50d13929": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1",
+            "value": { "[\"y\"]": "1" }
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "remove",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1"
+          }
+        ],
+        "timestamp": 1774077305225,
+        "hash": "191f3288-6456-48cb-8753-a64f50d13929"
+      },
+      "5e02855f-c253-46a3-8814-764ea41071dd": {
+        "forwardDiff": [
+          {
+            "op": "remove",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/projects/stateByProjectId/Spotify Wrapped/stateBySheetId/Preloader Curtain/sequenceEditor/selectedPropsByObject/Year1",
+            "value": { "[\"y\"]": "1" }
+          }
+        ],
+        "timestamp": 1774077305859,
+        "hash": "5e02855f-c253-46a3-8814-764ea41071dd"
+      },
+      "72740594-93b7-41a2-9c0e-715d3dd39ee5": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077308805,
+        "hash": "72740594-93b7-41a2-9c0e-715d3dd39ee5"
+      },
+      "0a98a883-7ae2-43f5-82d1-77a6a3283ad4": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077311546,
+        "hash": "0a98a883-7ae2-43f5-82d1-77a6a3283ad4"
+      },
+      "01b0572c-2d3c-4041-8d1d-9b8377f18f01": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077315274,
+        "hash": "01b0572c-2d3c-4041-8d1d-9b8377f18f01"
+      },
+      "aedd588e-2233-4f4e-b1e5-31668c13fe43": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077318813,
+        "hash": "aedd588e-2233-4f4e-b1e5-31668c13fe43"
+      },
+      "973f1fe9-14d1-45a4-81d0-ec9076eff57e": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077322765,
+        "hash": "973f1fe9-14d1-45a4-81d0-ec9076eff57e"
+      },
+      "407d6d50-6799-45f5-9224-85314c5d3943": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -300
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077325617,
+        "hash": "407d6d50-6799-45f5-9224-85314c5d3943"
+      },
+      "c8ebacac-30f1-4e63-bd23-4312a8da5190": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077328806,
+        "hash": "c8ebacac-30f1-4e63-bd23-4312a8da5190"
+      },
+      "ea6d3779-72b9-4e0d-bb6a-bcc800f55d56": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077333321,
+        "hash": "ea6d3779-72b9-4e0d-bb6a-bcc800f55d56"
+      },
+      "14e71618-f83d-42c2-94ae-6a46c3ae3251": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 2.933,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077335924,
+        "hash": "14e71618-f83d-42c2-94ae-6a46c3ae3251"
+      },
+      "3dcb8a31-6ce5-47f6-ae49-94ccf62c9818": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -50
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1",
+            "value": {
+              "id": "2et7xVYkFg",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077355333,
+        "hash": "3dcb8a31-6ce5-47f6-ae49-94ccf62c9818"
+      },
+      "85ed40b7-1793-42c3-954c-2b3b5da1b4a6": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -50
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1",
+            "value": {
+              "id": "hGIbbQUZN9",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077358310,
+        "hash": "85ed40b7-1793-42c3-954c-2b3b5da1b4a6"
+      },
+      "209a7564-12b0-48fb-9b56-dd585c86b5a0": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -50
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1",
+            "value": {
+              "id": "fcqKVHpFJz",
+              "position": 3.133,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": -250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/2"
+          }
+        ],
+        "timestamp": 1774077360637,
+        "hash": "209a7564-12b0-48fb-9b56-dd585c86b5a0"
+      },
+      "e115581a-fdb0-4959-aef8-46f6b96279c3": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/0",
+            "value": {
+              "id": "v8wVgEfiZE",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year1/trackData/x19iptwy7i/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077416125,
+        "hash": "e115581a-fdb0-4959-aef8-46f6b96279c3"
+      },
+      "03c6b8a6-98b0-4d7b-91a8-b90e9f19539b": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/0",
+            "value": {
+              "id": "tWBeSn8dA_",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year2/trackData/AXqp9bngfp/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077418094,
+        "hash": "03c6b8a6-98b0-4d7b-91a8-b90e9f19539b"
+      },
+      "b6e988a5-9a49-4db5-8bc3-d61d219c456f": {
+        "forwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 100
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "backwardDiff": [
+          {
+            "op": "add",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/0",
+            "value": {
+              "id": "LglJxgi_HP",
+              "position": 0,
+              "connectedRight": true,
+              "handles": [0.5, 1, 0.5, 0],
+              "type": "bezier",
+              "value": 250
+            }
+          },
+          {
+            "op": "remove",
+            "path": "/coreByProject/Spotify Wrapped/sheetsById/Preloader Curtain/sequence/tracksByObject/Year3/trackData/UDdkiSYVx9/keyframes/1"
+          }
+        ],
+        "timestamp": 1774077420610,
+        "hash": "b6e988a5-9a49-4db5-8bc3-d61d219c456f"
+      },
+      "f51ff6f5-8a39-4ba9-a706-be0288f9e2f4": {
+        "forwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/bottom/distance", "value": -0.47235576923076916 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/distance", "value": 0.12019230769230771 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/from", "value": "screenBottom" },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": -0.011564625850340127 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.4666666666666667 }
+        ],
+        "backwardDiff": [
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/bottom/distance", "value": 0.16225961538461542 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/distance", "value": 0.24519230769230768 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/top/from", "value": "screenTop" },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/right/distance", "value": 0.173469387755102 },
+          { "op": "replace", "path": "/panelPositions/sequenceEditor/edges/left/distance", "value": 0.282312925170068 }
+        ],
+        "timestamp": 1774077514742,
+        "hash": "f51ff6f5-8a39-4ba9-a706-be0288f9e2f4"
+      }
+    },
+    "listOfCommitHashes": [
+      "66347e3f-6d1b-46c8-90db-c192d8b7e18e",
+      "7e5a0b20-ca50-4c95-a8df-221111e9cab9",
+      "5e7a0ce8-f93d-4958-988f-2d1053b74948",
+      "82c5e972-6be8-4e48-8db5-6118b32cdada",
+      "88e71892-774e-4ab1-b674-32ffc4efa2ac",
+      "4b38010f-ad19-4aea-abb8-b14f3ee19bca",
+      "8a130731-2ffa-4cd3-bcbb-b73e606c7336",
+      "1e52fb6a-6519-4549-9a38-43da46a03576",
+      "fb8aae0b-e7b6-42ee-a65c-6118bdccb0c8",
+      "d2593ad1-486e-4033-8f45-68b5f7594d40",
+      "e84b0d27-c4e0-4c55-837c-73239ed72d13",
+      "762f6d40-3460-47dd-a9eb-2eebf3869f6d",
+      "8735cfa7-4c9c-48f5-bfce-2c0d0a5ec39d",
+      "4f8ba495-cb55-4ca9-ad41-20cae8731900",
+      "1845fc63-c063-407f-9e70-5170042e71d0",
+      "57caee05-79fc-4554-b646-21b262f1545a",
+      "965ff5e0-5f63-4d91-b888-9e111962360a",
+      "384f6760-3be7-4ed5-af06-762eb30e83b6",
+      "4857d96c-eda8-4356-937c-77d5cd1eccd5",
+      "9c6961c1-fb99-441e-afe3-8e5f522f303a",
+      "da09d768-c148-4afa-ba31-c2df46053331",
+      "53c721ae-1189-4d61-934f-d08598d3044d",
+      "ca7ee5f3-793b-4ab6-bffb-63b51b1f59e4",
+      "17a335e9-79b5-4f32-98d4-b483ad0d2c42",
+      "5e08a061-d2b4-4994-8afd-ed2fa0b4221f",
+      "1d2e8d10-aea1-4c86-892f-2f97a07b0561",
+      "e7751783-8208-4a81-9012-b13e20dd0a00",
+      "2ec8f23b-c547-44dc-ab59-f6d0e4ca34ca",
+      "9038cf28-4a59-4253-afe6-f043cb8f4279",
+      "bff8b9c8-b9aa-433f-af44-d9f53f331e9d",
+      "d2a5cc81-04fa-4ff7-98a7-39a9f3a8a060",
+      "7f31fd63-f498-4821-be83-816a1ede24ab",
+      "63b710e5-6a1a-47ef-9cce-e743fa7fe5dd",
+      "eb01ecf8-c3e0-4b24-bb00-b4a4e72f84aa",
+      "5e88789c-9e0d-4c38-b38e-8f0553ff8d58",
+      "49fa5fd1-2759-49a3-90ff-607a26da9629",
+      "401d19b8-fc77-4c28-af32-3248d2e30392",
+      "b85ad9f5-26d0-4c88-baac-e891eb013778",
+      "7e43060d-a383-4b11-83ec-ab2551f2677b",
+      "d5b255ca-27c4-44fb-88f6-0f77270fdb5c",
+      "fab229fd-b14b-47b6-b7df-a5d0063b6567",
+      "54a1d5a3-7de2-4e0b-8a18-1a8a870fdf4f",
+      "72201c02-efb5-4a7c-b6d5-edf2cc700cbd",
+      "8e75c432-5b53-405e-b782-263f48a20c81",
+      "6e99345e-31da-40df-904d-365272d215d9",
+      "d2e6d151-19d8-4ef4-a8ed-2b3daba59bbf",
+      "20ba83ef-9dfe-4e05-a593-780c89d1c44a",
+      "1d0843ad-e69c-4da3-8c85-b89f904fefc1",
+      "87d1e38c-a71e-460f-90fa-c5c2456b1f9b",
+      "6462cbd6-39b1-4f3c-be68-19653a8e86ef",
+      "44e152ce-38bf-44a8-886b-fe31f173afa1",
+      "c91bebb9-0bbe-4d1a-a7ca-3d8837916327",
+      "b39f330f-ebce-4fc4-a586-cc0c3721d616",
+      "f3b844ad-e82f-4b1b-a0e5-d59fc0a902dc",
+      "76cff7f4-db8f-47f1-a58a-80e0274d3cb3",
+      "b6fce303-3e2e-460b-b101-635c6c5a04b1",
+      "b4fb6d0c-7dbf-4d6e-8ddc-51c6b2f67a43",
+      "7c9906a8-c49b-4560-8a97-5f3512d59cb1",
+      "ff1b84dc-8f40-41c8-a294-fdab3f59f002",
+      "a94c1b71-2c38-4259-8abb-7e0057214c18",
+      "2c6d9f22-f96d-4c26-993e-214933521f22",
+      "d2e4f47d-04b1-489a-a769-a1857bbe2ee2",
+      "bddce560-d082-454e-88b5-e480cc9b2431",
+      "831a7a6d-f00e-4aba-a226-7c8e28e03706",
+      "d3195f99-165e-40c9-bd35-31a8708c1e3b",
+      "8cb98f1a-70bf-47c2-830e-8b5fa855e53c",
+      "0d90e0d3-ff3c-4749-805b-4a5b78ef152a",
+      "a008927d-237f-4b8c-acbb-5f0cc14875ff",
+      "9cbcfbfc-47db-4de7-9590-a62a1e7ee5d1",
+      "c83c4920-d8fe-48e4-b8c4-e8bf3872a711",
+      "f5abd0a3-9fca-4404-a12c-c4254d96680a",
+      "8a41e898-be22-4a7d-ae4f-dea76bb3a10d",
+      "2148b675-542c-4b9c-b8ae-b9cd5525e2f7",
+      "b14d15ef-dd0d-423b-909c-056992ae768b",
+      "23092a85-81e1-4997-945f-8dada04c9801",
+      "2dfa8856-42d5-43a3-9054-0263af3335e8",
+      "485069b3-ad4a-4525-a628-68cf31f6ecd7",
+      "4d85dce5-f759-44d2-ae85-97094f275216",
+      "38bd827e-f2dc-4a36-8c9f-549b8928265b",
+      "48537b0b-5f08-46f4-b89c-88a9f9730448",
+      "ea79f126-35b7-4f0e-8085-46854040bcc8",
+      "99d08476-1721-496d-9db1-4803b24363cc",
+      "191f3288-6456-48cb-8753-a64f50d13929",
+      "5e02855f-c253-46a3-8814-764ea41071dd",
+      "72740594-93b7-41a2-9c0e-715d3dd39ee5",
+      "0a98a883-7ae2-43f5-82d1-77a6a3283ad4",
+      "01b0572c-2d3c-4041-8d1d-9b8377f18f01",
+      "aedd588e-2233-4f4e-b1e5-31668c13fe43",
+      "973f1fe9-14d1-45a4-81d0-ec9076eff57e",
+      "407d6d50-6799-45f5-9224-85314c5d3943",
+      "c8ebacac-30f1-4e63-bd23-4312a8da5190",
+      "ea6d3779-72b9-4e0d-bb6a-bcc800f55d56",
+      "14e71618-f83d-42c2-94ae-6a46c3ae3251",
+      "3dcb8a31-6ce5-47f6-ae49-94ccf62c9818",
+      "85ed40b7-1793-42c3-954c-2b3b5da1b4a6",
+      "209a7564-12b0-48fb-9b56-dd585c86b5a0",
+      "e115581a-fdb0-4959-aef8-46f6b96279c3",
+      "03c6b8a6-98b0-4d7b-91a8-b90e9f19539b",
+      "b6e988a5-9a49-4db5-8bc3-d61d219c456f",
+      "f51ff6f5-8a39-4ba9-a706-be0288f9e2f4"
+    ],
+    "innerState": {
+      "projects": {
+        "stateByProjectId": {
+          "HTML Animation Tutorial": {
+            "stateBySheetId": {
+              "Sheet 1": { "selectedInstanceId": "default", "sequenceEditor": { "selectedPropsByObject": {} } }
+            }
+          },
+          "Spotify Wrapped": {
+            "stateBySheetId": {
+              "Preloader Curtain": { "selectedInstanceId": "default", "sequenceEditor": { "selectedPropsByObject": {} } }
+            }
+          }
+        }
+      },
+      "autoKey": true,
+      "coreByProject": {
+        "HTML Animation Tutorial": {
+          "sheetsById": {
+            "Sheet 1": {
+              "staticOverrides": {
+                "byObject": {
+                  "Heading 1": { "y": 12 },
+                  "Year1": { "opacity": 0 },
+                  "Year2": { "opacity": 0 },
+                  "Year3": { "opacity": 0 }
+                }
+              },
+              "sequence": {
+                "subUnitsPerUnit": 30,
+                "length": 4.8,
+                "type": "PositionalSequence",
+                "tracksByObject": {
+                  "Heading 1": {
+                    "trackData": {
+                      "XHP33ZcRCu": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Heading 1:[\"opacity\"]",
+                        "keyframes": [
+                          {
+                            "id": "dNxWZor6v3",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "l-g-wq-KPo",
+                            "position": 4.767,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1
+                          }
+                        ]
+                      }
+                    },
+                    "trackIdByPropPath": { "[\"opacity\"]": "XHP33ZcRCu" }
+                  }
+                }
+              }
+            }
+          },
+          "definitionVersion": "0.4.0",
+          "revisionHistory": []
+        },
+        "Spotify Wrapped": {
+          "sheetsById": {
+            "Preloader Curtain": {
+              "staticOverrides": {
+                "byObject": { "Year1": { "opacity": 0 }, "Year2": { "opacity": 0 }, "Year3": { "opacity": 0 } }
+              },
+              "sequence": {
+                "subUnitsPerUnit": 30,
+                "length": 4.02,
+                "type": "PositionalSequence",
+                "tracksByObject": {
+                  "Year3": {
+                    "trackData": {
+                      "QmtrMW6nk3": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year3:[\"x\"]",
+                        "keyframes": [
+                          {
+                            "id": "s7usO7qmFm",
+                            "position": 0.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1512
+                          },
+                          {
+                            "id": "mjwh63QH2W",
+                            "position": 1.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "Yl4wXiwlcz",
+                            "position": 2.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "hz6f3RhtX8",
+                            "position": 3.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": -1512
+                          }
+                        ]
+                      },
+                      "rnMYMZZDY2": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year3:[\"opacity\"]",
+                        "keyframes": [
+                          {
+                            "id": "hcSNJtKbZR",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "t5SU-NghiM",
+                            "position": 0.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1
+                          }
+                        ]
+                      },
+                      "UDdkiSYVx9": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year3:[\"y\"]",
+                        "keyframes": [
+                          {
+                            "id": "LglJxgi_HP",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 100
+                          },
+                          {
+                            "id": "fcqKVHpFJz",
+                            "position": 3.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": -50
+                          }
+                        ]
+                      }
+                    },
+                    "trackIdByPropPath": { "[\"x\"]": "QmtrMW6nk3", "[\"opacity\"]": "rnMYMZZDY2", "[\"y\"]": "UDdkiSYVx9" }
+                  },
+                  "Year2": {
+                    "trackData": {
+                      "x9RAdzY4jR": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year2:[\"opacity\"]",
+                        "keyframes": [
+                          {
+                            "id": "pELEPiX2v_",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "junEIhWL8z",
+                            "position": 0.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1
+                          }
+                        ]
+                      },
+                      "KL98oIw2kP": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year2:[\"x\"]",
+                        "keyframes": [
+                          {
+                            "id": "KgDhVP4v7o",
+                            "position": 0.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1512
+                          },
+                          {
+                            "id": "pJ4JBqEv-y",
+                            "position": 1.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "eo3k45Cjum",
+                            "position": 2.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "pJ0LvVibUR",
+                            "position": 3.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": -1512
+                          }
+                        ]
+                      },
+                      "AXqp9bngfp": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year2:[\"y\"]",
+                        "keyframes": [
+                          {
+                            "id": "tWBeSn8dA_",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 100
+                          },
+                          {
+                            "id": "hGIbbQUZN9",
+                            "position": 3.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": -50
+                          }
+                        ]
+                      }
+                    },
+                    "trackIdByPropPath": { "[\"opacity\"]": "x9RAdzY4jR", "[\"x\"]": "KL98oIw2kP", "[\"y\"]": "AXqp9bngfp" }
+                  },
+                  "Year1": {
+                    "trackData": {
+                      "tBRUZiUm7_": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year1:[\"x\"]",
+                        "keyframes": [
+                          {
+                            "id": "4n4M1LWcZI",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1512
+                          },
+                          {
+                            "id": "praL3v8RL5",
+                            "position": 1,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "6ouab0TIgr",
+                            "position": 2,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "0lMHrXmmen",
+                            "position": 2.933,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": -1512
+                          }
+                        ]
+                      },
+                      "-Gl7rZrkfS": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year1:[\"opacity\"]",
+                        "keyframes": [
+                          {
+                            "id": "Nltv5zAtaU",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 0
+                          },
+                          {
+                            "id": "kYG17bxXJZ",
+                            "position": 0.067,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 1
+                          }
+                        ]
+                      },
+                      "x19iptwy7i": {
+                        "type": "BasicKeyframedTrack",
+                        "__debugName": "Year1:[\"y\"]",
+                        "keyframes": [
+                          {
+                            "id": "v8wVgEfiZE",
+                            "position": 0,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": 100
+                          },
+                          {
+                            "id": "2et7xVYkFg",
+                            "position": 3.133,
+                            "connectedRight": true,
+                            "handles": [0.5, 1, 0.5, 0],
+                            "type": "bezier",
+                            "value": -50
+                          }
+                        ]
+                      }
+                    },
+                    "trackIdByPropPath": { "[\"x\"]": "tBRUZiUm7_", "[\"opacity\"]": "-Gl7rZrkfS", "[\"y\"]": "x19iptwy7i" }
+                  }
+                }
+              }
+            }
+          },
+          "definitionVersion": "0.4.0",
+          "revisionHistory": []
+        }
+      },
+      "panelInstanceDesceriptors": {},
+      "panels": {
+        "outlinePanel": {
+          "selection": [
+            { "type": "SheetObject", "projectId": "Spotify Wrapped", "sheetId": "Preloader Curtain", "objectKey": "Year1" }
+          ]
+        },
+        "sequenceEditor": { "graphEditor": { "height": 0.5, "isOpen": true } }
+      },
+      "panelPositions": {
+        "sequenceEditor": {
+          "edges": {
+            "left": { "from": "screenLeft", "distance": 0.4666666666666667 },
+            "right": { "from": "screenRight", "distance": -0.011564625850340127 },
+            "top": { "from": "screenBottom", "distance": 0.12019230769230771 },
+            "bottom": { "from": "screenBottom", "distance": -0.47235576923076916 }
+          }
+        }
+      }
+    }
+  },
+  "ahistoric": {
+    "visibilityState": "everythingIsVisible",
+    "theTrigger": {
+      "position": { "closestCorner": "bottomLeft", "distanceFromHorizontalEdge": 0.02, "distanceFromVerticalEdge": 0.02 }
+    },
+    "coreByProject": { "HTML Animation Tutorial": { "ahistoricStuff": "" }, "Spotify Wrapped": { "ahistoricStuff": "" } },
+    "projects": {
+      "stateByProjectId": {
+        "HTML Animation Tutorial": {
+          "stateBySheetId": { "Sheet 1": { "sequence": { "clippedSpaceRange": { "start": 0, "end": 10.000000000000004 } } } }
+        },
+        "Spotify Wrapped": {
+          "stateBySheetId": {
+            "Preloader Curtain": {
+              "sequence": {
+                "collapsableItems": {
+                  "byId": { "{\"o\":\"Year3\"}": { "isCollapsed": false } },
+                  "allIds": { "{\"o\":\"Year3\"}": true }
+                },
+                "clippedSpaceRange": { "start": 0, "end": 10.000000000000007 }
+              }
+            }
+          }
+        }
+      }
+    },
+    "updateChecker": { "lastChecked": 1774076128702, "result": { "hasUpdates": false } },
+    "pinDetails": true,
+    "pinOutline": true
+  }
+}

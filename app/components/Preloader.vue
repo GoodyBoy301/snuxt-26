@@ -15,9 +15,10 @@
     </ClientOnly>
     <div class="preloader-info">2022 Creator Wrapped is complete and this is your data</div>
     <div class="preloader-year">
-      <span>2022</span>
-      <span>2022</span>
-      <span>2022</span>
+      <span v-for="_ in 3">2022</span>
+    </div>
+    <div class="preloader-tag">
+      <span v-for="_ in 11">#SPOTIFYWRAPPED</span>
     </div>
   </div>
 </template>
@@ -39,30 +40,34 @@ onMounted(async () => {
 
   const project = getProject("Spotify Wrapped");
   const sheet = project.sheet("Preloader Curtain");
-  const $years = [
-    sheet.object("Year1", {
+  const years = gsap.utils.toArray<HTMLElement>(".preloader-year span")!;
+  const tags = gsap.utils.toArray<HTMLElement>(".preloader-tag span")!;
+  const $years = years.map((_, i) => {
+    return sheet.object(`Year${i + 1}`, {
       x: 1512,
       y: 100,
       opacity: types.number(1, { range: [0, 1] }),
-    }),
-    sheet.object("Year2", {
+    });
+  });
+  const $tags = tags.map((_, i) => {
+    return sheet.object(`Tag${i + 1}`, {
       x: 1512,
       y: 100,
       opacity: types.number(1, { range: [0, 1] }),
-    }),
-    sheet.object("Year3", {
-      x: 1512,
-      y: 100,
-      opacity: types.number(1, { range: [0, 1] }),
-    }),
-  ];
-
-  const years = document.querySelectorAll<HTMLElement>(".preloader-year span")!;
+    });
+  });
 
   years.forEach((year, i) => {
     $years[i]?.onValuesChange(($year) => {
       year.style.transform = `translateX(${$year.x}px) translateY(${$year.y}px)`;
       year.style.opacity = `${$year.opacity}`;
+    });
+  });
+
+  tags.forEach((tag, i) => {
+    $tags[i]?.onValuesChange(($tag) => {
+      tag.style.transform = `translateX(${$tag.x}px) translateY(${$tag.y}px)`;
+      tag.style.opacity = `${$tag.opacity}`;
     });
   });
 

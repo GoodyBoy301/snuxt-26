@@ -106,4 +106,72 @@
       }
     }
   }
+
+  &-tag {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    place-content: center;
+    z-index: 2;
+
+    span {
+      font-family: latin, Helvetica, Arial, sans-serif;
+      font-size: 16.5rem;
+      font-weight: 500;
+      line-height: 1;
+      letter-spacing: -0.075em;
+      font-variant: tabular-nums;
+      color: var(--color);
+      padding-bottom: 6rem;
+      font-variant: tabular-nums;
+      display: block;
+      clip-path: inset(10% 0% 36% 0%);
+      position: relative;
+      margin: -0.33em 0;
+      &:nth-of-type(1) {
+        background-color: oklch(0.75 0.17 55.62);
+        color: oklch(0.18 0 0);
+      }
+      &:nth-of-type(2) {
+        background-color: oklch(0.44 0.23 300.17);
+        color: oklch(0.96 0.19 112.95);
+      }
+      &:nth-of-type(3) {
+        background-color: oklch(0.72 0.18 346.05);
+        color: oklch(0.18 0 0);
+      }
+      &:nth-of-type(4) {
+        background-color: oklch(0.18 0 0);
+        color: oklch(0.96 0.19 112.95);
+      }
+      &:nth-of-type(5) {
+        background-color: oklch(0.77 0.21 148.9);
+        color: oklch(0.18 0 0);
+      }
+      &:nth-of-type(6) {
+        background-color: oklch(0.75 0.17 55.62);
+        color: oklch(0.18 0 0);
+      }
+      &:nth-of-type(7) {
+        background-color: oklch(0.44 0.23 300.17);
+        color: oklch(0.96 0.19 112.95);
+      }
+      &:nth-of-type(8) {
+        background-color: oklch(0.72 0.18 346.05);
+        color: oklch(0.18 0 0);
+      }
+      &:nth-of-type(9) {
+        background-color: oklch(0.18 0 0);
+        color: oklch(0.96 0.19 112.95);
+      }
+      &:nth-of-type(10) {
+        background-color: oklch(0.77 0.21 148.9);
+        color: oklch(0.18 0 0);
+      }
+      &:nth-of-type(11) {
+        background-color: oklch(0.75 0.17 55.62);
+        color: oklch(0.18 0 0);
+      }
+    }
+  }
 }
