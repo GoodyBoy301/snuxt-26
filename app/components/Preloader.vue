@@ -28,7 +28,8 @@ import gsap from "gsap";
 import * as THREE from "three";
 import { getProject, types } from "@theatre/core";
 import studio from "@theatre/studio";
-studio.initialize();
+import preloaderState from "@/assets/preloader.json";
+// studio.initialize();
 
 const count = ref(0);
 const target = ref(0);
@@ -38,8 +39,56 @@ onMounted(async () => {
   const assets: Array<String> = [];
   const images = document.querySelectorAll("img");
 
-  const project = getProject("Spotify Wrapped");
+  // const project = getProject("Spotify Wrapped");
+  // const sheet = project.sheet("Preloader Curtain");
+  // const years = gsap.utils.toArray<HTMLElement>(".preloader-year span")!;
+  // const tags = gsap.utils.toArray<HTMLElement>(".preloader-tag span")!;
+  // const $years = years.map((_, i) => {
+  //   return sheet.object(`Year${i + 1}`, {
+  //     x: 1512,
+  //     y: 100,
+  //     opacity: types.number(1, { range: [0, 1] }),
+  //   });
+  // });
+  // const $tags = tags.map((_, i) => {
+  //   return sheet.object(`Tag${i + 1}`, {
+  //     x: 1512,
+  //     y: 100,
+  //     opacity: types.number(1, { range: [0, 1] }),
+  //   });
+  // });
+
+  // years.forEach((year, i) => {
+  //   $years[i]?.onValuesChange(($year) => {
+  //     year.style.transform = `translateX(${$year.x}px) translateY(${$year.y}px)`;
+  //     year.style.opacity = `${$year.opacity}`;
+  //   });
+  // });
+
+  // tags.forEach((tag, i) => {
+  //   $tags[i]?.onValuesChange(($tag) => {
+  //     tag.style.transform = `translateX(${$tag.x}px) translateY(${$tag.y}px)`;
+  //     tag.style.opacity = `${$tag.opacity}`;
+  //   });
+  // });
+
+  images.forEach((img) => {
+    assets.push(img.src);
+  });
+
+  for (let i = 0; i < assets.length; i++) {
+    await fetch(assets[i] as RequestInfo);
+    await gsap.delayedCall((Math.random() * i) / 4, update);
+    // update();
+    target.value += 100 / images.length;
+  }
+
+  const project = getProject("Spotify Wrapped Prod", {
+    state: preloaderState,
+  });
+
   const sheet = project.sheet("Preloader Curtain");
+
   const years = gsap.utils.toArray<HTMLElement>(".preloader-year span")!;
   const tags = gsap.utils.toArray<HTMLElement>(".preloader-tag span")!;
   const $years = years.map((_, i) => {
@@ -71,18 +120,10 @@ onMounted(async () => {
     });
   });
 
-  images.forEach((img) => {
-    assets.push(img.src);
-  });
-
-  for (let i = 0; i < assets.length; i++) {
-    await fetch(assets[i] as RequestInfo);
-    // await gsap.delayedCall((Math.random() * i) / 4, update);
-    update();
-    target.value += 100 / images.length;
-  }
-
+  let _preloaded = false;
   function onPreloaded() {
+    if (_preloaded) return;
+    _preloaded = true;
     gsap
       .timeline({ delay: 0.5 })
       .fromTo(
@@ -90,13 +131,20 @@ onMounted(async () => {
         { yPercent: 0, clipPath: "inset(0% 0% 0% 0%)" },
         { yPercent: -85, clipPath: "inset(85% 0% 0% 0%)", stagger: 0.0875, duration: 0.675 },
       )
-      .to(".preloader-info", { opacity: 0, duration: 0.2, delay: 0.2 });
+      .to(".preloader-info", { opacity: 0, duration: 0.2, delay: 0.2 })
+      .set(".preloader-year, .preloader-tag", { autoAlpha: 1, duration: 0.2, delay: 0.2 })
+      .call(() => {
+        project.ready.then(() => {
+          console.log({ sheet });
+          sheet.sequence.play();
+        });
+      });
   }
 
   function update() {
     if (count.value < target.value) {
-      // count.value += 2.5 / 60;
-      count.value += 25 / 60;
+      count.value += 2.5 / 60;
+      // count.value += 25 / 60;
     }
     if (phase.value === 0 && count.value > 25) {
       phase.value = 1;
@@ -110,9 +158,9 @@ onMounted(async () => {
 
     if (count.value >= 100) {
       onPreloaded();
-      return;
+    } else {
+      requestAnimationFrame(update);
     }
-    requestAnimationFrame(update);
   }
 });
 </script>
