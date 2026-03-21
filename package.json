@@ -11,11 +11,17 @@
   },
   "dependencies": {
     "@studio-freight/lenis": "^1.0.42",
+    "@theatre/core": "^0.7.2",
+    "@theatre/studio": "^0.7.2",
     "gsap": "^3.14.2",
     "include-media": "^2.0.0",
     "nuxt": "^4.2.2",
     "sass": "^1.97.1",
+    "three": "^0.183.2",
     "vue": "^3.5.26",
     "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/three": "^0.183.1"
   }
 }

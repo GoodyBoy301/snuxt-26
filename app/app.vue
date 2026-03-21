@@ -1,4 +1,5 @@
 <template>
+  <Preloader />
   <div>
     <NuxtPage />
   </div>

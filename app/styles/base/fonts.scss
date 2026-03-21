@@ -1,0 +1,351 @@
+// @font-face {
+//   font-family: latin;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/latin/woff2/latin-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/latin/woff/latin-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: latin;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/latin/woff2/latin-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/latin/woff/latin-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: latin;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/latin/woff2/latin-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/latin/woff/latin-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: cyrillic;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/cyrillic/woff2/cyrillic-medium.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/cyrillic/woff/cyrillic-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: cyrillic;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/cyrillic/woff2/cyrillic-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/cyrillic/woff/cyrillic-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: cyrillic;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/cyrillic/woff2/cyrillic-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/cyrillic/woff/cyrillic-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: greek;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/greek/woff2/greek-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/greek/woff/greek-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: greek;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/greek/woff2/greek-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/greek/woff/greek-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: greek;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/greek/woff2/greek-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/greek/woff/greek-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: ko;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ko/woff2/ko-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ko/woff/ko-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: ko;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ko/woff2/ko-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ko/woff/ko-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: ko;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ko/woff2/ko-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ko/woff/ko-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: vit;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/vit/woff2/vit-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/vit/woff/vit-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: vit;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/vit/woff2/vit-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/vit/woff/vit-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: vit;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/vit/woff2/vit-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/vit/woff/vit-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: ar;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ar/woff2/ar-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ar/woff/ar-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: ar;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ar/woff2/ar-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ar/woff/ar-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: ar;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ar/woff2/ar-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/ar/woff/ar-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: th;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/th/woff2/th-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/th/woff/th-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: th;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/th/woff2/th-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/th/woff/th-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: th;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/th/woff2/th-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/th/woff/th-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: he;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/he/woff2/he-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/he/woff/he-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: he;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/he/woff2/he-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/he/woff/he-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: he;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/he/woff2/he-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/he/woff/he-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: udshingopro;
+//   src: url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/udshingopro/UDShinGoPro-Medium.otf)
+//     format("opentype");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: udshingopro;
+//   src: url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/udshingopro/UDShinGoPro-Bold.otf)
+//     format("opentype");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: udshingopro;
+//   src: url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/udshingopro/UDShinGoPro-Heavy.otf)
+//     format("opentype");
+//   font-style: normal;
+//   font-weight: 900;
+// }
+
+// @font-face {
+//   font-family: "Noto Sans CJK SC";
+//   font-style: normal;
+//   font-weight: 500;
+//   src:
+//     local("☺"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Medium.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Medium.woff)
+//       format("woff"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Medium.otf)
+//       format("opentype");
+// }
+
+// @font-face {
+//   font-family: "Noto Sans CJK SC";
+//   font-style: normal;
+//   font-weight: 700;
+//   src:
+//     local("☺"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Bold.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Bold.woff)
+//       format("woff"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Bold.otf)
+//       format("opentype");
+// }
+
+// @font-face {
+//   font-family: "Noto Sans CJK SC";
+//   font-style: normal;
+//   font-weight: 900;
+//   src:
+//     local("☺"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Black.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Black.woff)
+//       format("woff"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKsc-hinted-standard/NotoSansCJKsc-Black.otf)
+//       format("opentype");
+// }
+
+// @font-face {
+//   font-family: "Noto Sans CJK TC";
+//   font-style: normal;
+//   font-weight: 500;
+//   src:
+//     local("☺"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Medium.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Medium.woff)
+//       format("woff"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Medium.otf)
+//       format("opentype");
+// }
+
+// @font-face {
+//   font-family: "Noto Sans CJK TC";
+//   font-style: normal;
+//   font-weight: 700;
+//   src:
+//     local("☺"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Bold.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Bold.woff)
+//       format("woff"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Bold.otf)
+//       format("opentype");
+// }
+
+// @font-face {
+//   font-family: "Noto Sans CJK TC";
+//   font-style: normal;
+//   font-weight: 900;
+//   src:
+//     local("☺"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Black.woff2)
+//       format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Black.woff)
+//       format("woff"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/NotoSansCJKtc-hinted-standard/NotoSansCJKtc-Black.otf)
+//       format("opentype");
+// }
+
+// @font-face {
+//   font-family: hi;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/hi/woff2/hi-medium.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/hi/woff/hi-medium.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: hi;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/hi/woff2/hi-bold.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/hi/woff/hi-bold.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: hi;
+//   src:
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/hi/woff2/hi-black.woff2) format("woff2"),
+//     url(https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/fonts/hi/woff/hi-black.woff) format("woff");
+//   font-style: normal;
+//   font-weight: 900;
+// }
