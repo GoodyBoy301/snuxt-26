@@ -75,6 +75,7 @@
     display: grid;
     place-content: center;
     visibility: hidden;
+    pointer-events: none;
 
     span {
       font-family: latin, Helvetica, Arial, sans-serif;
@@ -115,6 +116,7 @@
     place-content: center;
     z-index: 2;
     visibility: hidden;
+    pointer-events: none;
 
     span {
       font-family: latin, Helvetica, Arial, sans-serif;
@@ -174,6 +176,26 @@
         background-color: oklch(0.75 0.17 55.62);
         color: oklch(0.18 0 0);
       }
+    }
+  }
+
+  &-lotties {
+    position: fixed;
+    width: 88rem;
+    height: 88rem;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    visibility: hidden;
+
+    dotlottie-wc {
+      position: absolute;
+      inset: 0;
+    }
+
+    figure {
+      position: absolute;
+      inset: 20rem;
     }
   }
 }

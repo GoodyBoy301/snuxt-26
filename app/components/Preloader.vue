@@ -20,6 +20,14 @@
     <div class="preloader-tag">
       <span v-for="_ in 11">#SPOTIFYWRAPPED</span>
     </div>
+    <div class="preloader-lotties">
+      <dotlottie-wc :src="lottie01" />
+      <dotlottie-wc :src="lottie02" mode="bounce" loop="true" />
+      <dotlottie-wc :src="lottie03" />
+      <figure>
+        <img src="/kendrick.jpg" alt="" />
+      </figure>
+    </div>
   </div>
 </template>
 
@@ -29,6 +37,11 @@ import * as THREE from "three";
 import { getProject, types } from "@theatre/core";
 import studio from "@theatre/studio";
 import preloaderState from "@/assets/preloader.json";
+import lottie01 from "@/assets/lottie01.json?url";
+import lottie02 from "@/assets/lottie02.json?url";
+import lottie03 from "@/assets/lottie03.json?url";
+import type { DotLottieWC } from "@lottiefiles/dotlottie-wc";
+
 // studio.initialize();
 
 const count = ref(0);
@@ -36,6 +49,7 @@ const target = ref(0);
 const phase = ref(0);
 
 onMounted(async () => {
+  await import("@lottiefiles/dotlottie-wc");
   const assets: Array<String> = [];
   const images = document.querySelectorAll("img");
 
@@ -78,8 +92,8 @@ onMounted(async () => {
 
   for (let i = 0; i < assets.length; i++) {
     await fetch(assets[i] as RequestInfo);
-    await gsap.delayedCall((Math.random() * i) / 4, update);
-    // update();
+    // await gsap.delayedCall((Math.random() * i) / 4, update);
+    update();
     target.value += 100 / images.length;
   }
 
@@ -129,22 +143,37 @@ onMounted(async () => {
       .fromTo(
         ".preloader-counter span",
         { yPercent: 0, clipPath: "inset(0% 0% 0% 0%)" },
-        { yPercent: -85, clipPath: "inset(85% 0% 0% 0%)", stagger: 0.0875, duration: 0.675 },
+        { yPercent: -85, clipPath: "inset(85% 0% 0% 0%)", stagger: 0.05, duration: 0.5, ease: "power2.in" },
       )
       .to(".preloader-info", { opacity: 0, duration: 0.2, delay: 0.2 })
-      .set(".preloader-year, .preloader-tag", { autoAlpha: 1, duration: 0.2, delay: 0.2 })
+      .set(".preloader-year, .preloader-tag", { autoAlpha: 1, duration: 0.2 })
       .call(() => {
         project.ready.then(() => {
-          console.log({ sheet });
           sheet.sequence.play();
         });
-      });
+      })
+      .set(".preloader-lotties", { autoAlpha: 1, scale: 1.35, delay: 5.5 })
+      .call(() => {
+        document.querySelectorAll<DotLottieWC>("dotlottie-wc").forEach((element) => element.dotLottie.play());
+        gsap.to("dotlottie-wc:nth-of-type(3)", {
+          rotate: "360deg",
+          duration: 20,
+          repeat: -1,
+          yoyo: true,
+          ease: "none",
+          delay: 4.5,
+        });
+      })
+      .to(".preloader-lotties", { scale: 1, duration: 1, delay: 1.675, ease: "power2.out" })
+      .from(".preloader-lotties figure", { scale: 0, duration: 0.75, delay: 1.2, ease: "power2.out" }, "<")
+      .to(".preloader-lotties", { scale: 0.9 })
+      .to(".preloader-lotties", { x: "30rem", delay: 0.2, duration: 1, ease: "power2.inOut" }, "<");
   }
 
   function update() {
     if (count.value < target.value) {
-      count.value += 2.5 / 60;
-      // count.value += 25 / 60;
+      // count.value += 2.5 / 60;
+      count.value += 25 / 60;
     }
     if (phase.value === 0 && count.value > 25) {
       phase.value = 1;
