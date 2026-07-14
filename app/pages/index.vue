@@ -39,3 +39,19 @@
     <img src="https://cors.yasbr.com/https://wrapped22.bybuttermax.net/assets/images/growth/bg.png" alt="" />
   </div>
 </template>
+
+<template>
+  <div :style="{ width: '100vw', height: '100vh', background: 'red' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'orange' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'yellow' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'green' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'blue' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'indigo' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'violet' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'white' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'black' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'pink' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'peru' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'gray' }"></div>
+  <div :style="{ width: '100vw', height: '100vh', background: 'brown' }"></div>
+</template>
